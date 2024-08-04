@@ -1,10 +1,18 @@
-Hello folks, i am Mr Edgeworth. I programme in mostly python/html, but i can put my hand to other languages(mostly c++ and lua) if needed. 
-I'm self taught, so i prefer functionality and cleanliness of code rather than clarity.
-Whatever the current project is, i allow people to use it as long as its for private use, or code optimisation etc. 
-My activity on github is all over the place, so please be patient with me.
-Programming is a hobby, so any questions about my project code are welcome :) (as long as they are not deragatory :P)
-I studied Networking/Cyber Security since 09/19 - 09/24.
+## README
 
+### Hi there 👋
 
-Cheers,
-Nate/Nathan
+**I'm Nathan Falvey**, a passionate programmer with a keen interest in cybersecurity.
+
+**Skills:**
+
+* **Programming Languages:** Python, CSS, HTML, Lua, C++
+* **Cybersecurity:** Extensive study from 2019 to 2024
+
+I'm constantly learning and expanding my knowledge in these areas. Feel free to explore my repositories for projects and code snippets.
+
+**Let's connect!** 
+
+[https://www.linkedin.com/in/nathan-falvey/]
+
+**Feel free to reach out if you have any questions or want to collaborate!**
