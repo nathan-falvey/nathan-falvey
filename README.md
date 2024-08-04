@@ -13,6 +13,7 @@ I'm constantly learning and expanding my knowledge in these areas. Feel free to 
 
 **Let's connect!** 
 
+My Linkedin is down below⬇️:
 [https://www.linkedin.com/in/nathan-falvey/]
 
 **Feel free to reach out if you have any questions or want to collaborate!**
