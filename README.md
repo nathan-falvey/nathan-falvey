@@ -22,3 +22,12 @@ nathan-falvey/spotipy-liked-songs-categoriser
 
 ### 🎶Music i've been listening to recently on Spotify:
 * War Preparations by W.G. Snuffy Walden
+https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO
+* Las Vegas by W.G. Snuffy Walden
+https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J
+* ARENA WAR THEME by HEALTH
+https://open.spotify.com/track/2CWTAgxkn1IMtFK1atROe1
+* Round and Round by Ratt
+https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL
+* Out Of Nowhere by Bugzy Malone
+https://open.spotify.com/track/7rD5ZDsHLIwoaGUGELaUaw
