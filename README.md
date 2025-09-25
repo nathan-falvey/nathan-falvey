@@ -5,8 +5,8 @@ I am a backend developer with a heavy focus on shell and internal system(s) scri
 Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS. 
 ```
 ### Global Stats
-Followers: 1
-Following: 1
+* Followers: 1
+* Following: 1
 * Public Repositories: 7
 ### Owned Repositories:
 ```
