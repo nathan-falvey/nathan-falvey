@@ -1,5 +1,5 @@
 # Hey There, I'm Nate/Nathan! A.K.A (nathan-falvey)
-I am a backend developer with a heavy focus on shell and internal system(s) scripting.
+I am a backend developer with a heavy focus on shell and internal system(s) scripting. I like to write code for automation systems too!
 ## Biography
 ```bash
 Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS. 
