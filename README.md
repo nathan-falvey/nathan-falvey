@@ -19,6 +19,7 @@ nathan-falvey/spotipy-liked-songs-categoriser
 ### Total Size Of Code Written:
 * Lua: 27.1 KB
 * Python: 3.4 KB
+
 ![Spotify Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251374%3Fs%3D280%26v%3D4&f=1&nofb=1&ipt=12831b16b25e057e06adba0c9e7ad174b6fd66e28f23016a5ec00f3e0360c901)
 ### Music i've been listening to recently on Spotify:
 * War Preparations by W.G. Snuffy Walden
