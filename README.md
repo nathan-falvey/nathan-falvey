@@ -8,3 +8,4 @@ Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS.
 * Public Repositories: 7
 * Public Gists: 0
 * Total Stars: 0
+* Total Commits: 45
