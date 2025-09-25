@@ -29,6 +29,6 @@ nathan-falvey/spotipy-liked-songs-categoriser
 4. [Round and Round by Ratt](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL)
 5. [Out Of Nowhere by Bugzy Malone](https://open.spotify.com/track/7rD5ZDsHLIwoaGUGELaUaw)
 
-![](https://hit.yhype.me/github/profile?account_id=86742441)
-
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
+
+![](https://hit.yhype.me/github/profile?account_id=86742441)
