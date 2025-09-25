@@ -10,11 +10,11 @@ Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS.
 * Total Stars: 0
 ### Repositories
 ```
-nathan-falvey/fnv-nates-new-vegas
-nathan-falvey/gta5-chaos-luascripts
-nathan-falvey/nathan-falvey
-nathan-falvey/pz-random-corpses
-nathan-falvey/spotipy-auto-liker-docker-headless
-nathan-falvey/spotipy-auto-liker-example
-nathan-falvey/spotipy-liked-songs-categoriser
+nathan-falvey/fnv-nates-new-vegas (None)
+nathan-falvey/gta5-chaos-luascripts (Lua)
+nathan-falvey/nathan-falvey (None)
+nathan-falvey/pz-random-corpses (Lua)
+nathan-falvey/spotipy-auto-liker-docker-headless (Python)
+nathan-falvey/spotipy-auto-liker-example (Python)
+nathan-falvey/spotipy-liked-songs-categoriser (None)
 ```
