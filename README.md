@@ -23,8 +23,10 @@ nathan-falvey/spotipy-liked-songs-categoriser
 * Python: 3.4 KB
 
 ### Most Used Languages: 
+```
 -      Lua (2): 50.0% █████     
 -   Python (2): 50.0% █████     
+```
 
 ### 🎶Music i've been listening to recently on Spotify:
 1. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
