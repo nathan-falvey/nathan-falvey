@@ -24,8 +24,8 @@ nathan-falvey/spotipy-liked-songs-categoriser
 
 ### Most Used Languages: 
 ```
--      Lua (2): 50.0% █████     
--   Python (2): 50.0% █████     
+-      Lua (2):      50.0% █████     
+-   Python (2):      50.0% █████     
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-falvey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 
