@@ -27,7 +27,7 @@ nathan-falvey/spotipy-liked-songs-categoriser
 -      Lua (2): 50.0% █████     
 -   Python (2): 50.0% █████     
 ```
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-falvey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-falvey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 
 ### 🎶Music i've been listening to recently on Spotify:
 1. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
@@ -39,7 +39,6 @@ nathan-falvey/spotipy-liked-songs-categoriser
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?account_id=86742441)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
 
 <img src="https://raw.githubusercontent.com/nathan-falvey/nathan-falvey/output/snake.svg" alt="Snake animation" />
