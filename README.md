@@ -22,6 +22,9 @@ nathan-falvey/spotipy-liked-songs-categoriser
 * Lua: 27.1 KB
 * Python: 3.4 KB
 
+Lua (2): 0.5
+Python (2): 0.5
+
 ### 🎶Music i've been listening to recently on Spotify:
 1. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 2. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
