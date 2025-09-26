@@ -42,3 +42,5 @@ nathan-falvey/spotipy-liked-songs-categoriser
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
 
 <img src="https://raw.githubusercontent.com/nathan-falvey/nathan-falvey/output/snake.svg" alt="Snake animation" />
+
+![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-falvey&show_icons=true&theme=transparent)
