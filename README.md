@@ -6,8 +6,9 @@ Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS.
 ```
 ### Global Stats
 * Followers: 1
-* Following: 3
+* Following: 4
 * Public Repositories: 7
+* Total Stars: 1
 ### Owned Repositories:
 ```
 nathan-falvey/fnv-nates-new-vegas
