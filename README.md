@@ -20,7 +20,7 @@ nathan-falvey/spotipy-auto-liker-example (Python)
 nathan-falvey/spotipy-liked-songs-categoriser
 ```
 ### Total Size Of Code Written:
-* Lua: 27.7 KB
+* Lua: 30.0 KB
 * Python: 3.4 KB
 
 ### Most Used Languages: 
