@@ -21,6 +21,24 @@ nathan-falvey/spotipy-liked-songs-categoriser
 ```
 ### Most Recent Commits:
 ```
+2024-10-22 18:43:45+01:00 - nathan-falvey/fnv-nates-new-vegas [d9a5c80]: 
+Updated ESP
+Added some scripts and perks
+0 Total Changes, 0 repository additions, 0 repository deletions.
+
+2025-09-28 23:24:33+01:00 - nathan-falvey/gta5-chaos-luascripts [c3ab0f1]: 
+Added Effects:
+new file:   Peds/PedsSetEveryoneIntoRandomVehicle.lua
+new file:   Player/PlayerBankHeist.lua
+new file:   Player/PlayerTPToLastVehicle.lua
+Modified:   Weather/WeatherCanadian.lua - reversed a True/False Statement to potentially fix a bug that throws around vehicles when the ped gets a snowman spawned on them.
+99 Total Changes, 98 repository additions, 1 repository deletions.
+
+2024-04-12 19:41:09+01:00 - emmettirl/Card_Jumper [a29d731]: 
+Scene Switching + Player Scores
+Added scene switching and the ability to retain and view player scores in the next scene.
+536 Total Changes, 395 repository additions, 141 repository deletions.
+
 ```
 ### Total Size Of Code Written:
 * Lua: 30.0 KB
