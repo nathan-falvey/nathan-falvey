@@ -40,3 +40,4 @@ nathan-falvey/spotipy-liked-songs-categoriser
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?account_id=86742441)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
+(This readme is automatically updated using a python script on my personal server backend.)
