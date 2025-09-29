@@ -37,7 +37,9 @@ nathan-falvey/spotipy-liked-songs-categoriser
 4. [Big Steppin by Bugzy Malone](https://open.spotify.com/track/7AvUOsLjrGpZSzs7jOlAp1)
 5. [Round and Round by Ratt](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL)
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
-![](https://hit.yhype.me/github/profile?account_id=86742441)
+</div>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
+
 (This readme is automatically updated using a python script on my personal server backend.)
