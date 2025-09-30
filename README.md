@@ -6,7 +6,7 @@ Cybersecurity enthusiast and programmer. Python, C++, Lua, HTML, CSS.
 ```
 ### Global Stats
 * Followers: 1
-* Following: 4
+* Following: 5
 * Public Repositories: 7
 * Total Stars: 1
 ### Owned Public Repositories:
