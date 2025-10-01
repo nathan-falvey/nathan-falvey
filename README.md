@@ -26,18 +26,19 @@ Updated ESP
 Added some scripts and perks
 0 Total Changes, 0 repository additions, 0 repository deletions.
 
-2025-09-30 23:12:19+01:00 - nathan-falvey/gta5-chaos-luascripts [b92c9dc]: 
-Added Effect: Express Trains
-23 Total Changes, 23 repository additions, 0 repository deletions.
+2025-10-01 19:13:19+01:00 - nathan-falvey/gta5-chaos-luascripts [f0508a9]: 
+Added File / New Effect:
+- Vehs/VehicleDerailTrains
+31 Total Changes, 31 repository additions, 0 repository deletions.
 
-2024-04-11 21:38:41+01:00 - emmettirl/Card_Jumper [0e063ad]: 
-Merge pull request #23 from emmettirl/images
-Added images to game
-259 Total Changes, 207 repository additions, 52 repository deletions.
+2024-05-07 03:00:40+01:00 - emmettirl/Card_Jumper [f71765d]: 
+Merge pull request #27 from emmettirl/aaronmc232-patch-7
+Update CODE_OF_CONDUCT.md
+24 Total Changes, 23 repository additions, 1 repository deletions.
 
 ```
 ### Total Size Of Code Written:
-* Lua: 30.4 KB
+* Lua: 31.1 KB
 * Python: 3.4 KB
 
 ### Most Used Languages: 
