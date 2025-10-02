@@ -26,9 +26,9 @@ Updated ESP
 Added some scripts and perks
 0 Total Changes, 0 repository additions, 0 repository deletions.
 
-2025-10-01 20:21:45+01:00 - nathan-falvey/gta5-chaos-luascripts [45f7650]: 
-Added File / Effect Player/PlayerInvincibleAndNoCops.lua.
-25 Total Changes, 25 repository additions, 0 repository deletions.
+2025-09-30 23:12:19+01:00 - nathan-falvey/gta5-chaos-luascripts [b92c9dc]: 
+Added Effect: Express Trains
+23 Total Changes, 23 repository additions, 0 repository deletions.
 
 ```
 ### Total Size Of Code Written:
