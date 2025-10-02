@@ -32,7 +32,7 @@ Added Effect: Express Trains
 
 ```
 ### Total Size Of Code Written:
-* Lua: 31.6 KB
+* Lua: 32.0 KB
 * Python: 3.4 KB
 
 ### Most Used Languages: 
