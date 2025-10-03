@@ -26,9 +26,10 @@ Updated ESP
 Added some scripts and perks
 0 Total Changes, 0 repository additions, 0 repository deletions.
 
-2025-09-30 23:12:19+01:00 - nathan-falvey/gta5-chaos-luascripts [b92c9dc]: 
-Added Effect: Express Trains
-23 Total Changes, 23 repository additions, 0 repository deletions.
+2025-10-01 19:13:19+01:00 - nathan-falvey/gta5-chaos-luascripts [f0508a9]: 
+Added File / New Effect:
+- Vehs/VehicleDerailTrains
+31 Total Changes, 31 repository additions, 0 repository deletions.
 
 ```
 ### Total Size Of Code Written:
@@ -47,7 +48,7 @@ Added Effect: Express Trains
 2. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
 3. [ARENA WAR THEME by HEALTH](https://open.spotify.com/track/2CWTAgxkn1IMtFK1atROe1)
 4. [Big Steppin by Bugzy Malone](https://open.spotify.com/track/7AvUOsLjrGpZSzs7jOlAp1)
-5. [Out Of Nowhere by Bugzy Malone](https://open.spotify.com/track/7rD5ZDsHLIwoaGUGELaUaw)
+5. [Round and Round by Ratt](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
