@@ -46,8 +46,8 @@ Added File / New Effect:
 ### 🎶Music i've been listening to recently on Spotify:
 1. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 2. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-3. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
-4. [Big Steppin by Bugzy Malone](https://open.spotify.com/track/7AvUOsLjrGpZSzs7jOlAp1)
+3. [Big Steppin by Bugzy Malone](https://open.spotify.com/track/7AvUOsLjrGpZSzs7jOlAp1)
+4. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
 5. [Out Of Nowhere by Bugzy Malone](https://open.spotify.com/track/7rD5ZDsHLIwoaGUGELaUaw)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
