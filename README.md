@@ -47,8 +47,8 @@ Added File / New Effect:
 1. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
 2. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 3. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
-4. [Big Steppin by Bugzy Malone](https://open.spotify.com/track/7AvUOsLjrGpZSzs7jOlAp1)
-5. [Hip-Hop by Dead Prez](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy)
+4. [Hip-Hop by Dead Prez](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy)
+5. [3500 (feat. Future & 2 Chainz) by Travis Scott](https://open.spotify.com/track/1SGt65i9AnXYdDQt1AtDRH)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
