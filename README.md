@@ -45,8 +45,8 @@ Added File / New Effect:
 
 ### 🎶Music i've been listening to recently on Spotify:
 1. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-2. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
-3. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
+2. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
+3. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 4. [Hip-Hop by Dead Prez](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy)
 5. [KICK OUT by Travis Scott](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw)
 
