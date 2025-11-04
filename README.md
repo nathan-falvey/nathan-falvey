@@ -44,9 +44,9 @@ Added File / New Effect:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-falvey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 
 ### 🎶Music i've been listening to recently on Spotify:
-1. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-2. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
-3. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
+1. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
+2. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
+3. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
 4. [The Takeover by Trevor Rabin](https://open.spotify.com/track/1gLyETILtkxStdJa2RbFdq)
 5. [KICK OUT by Travis Scott](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw)
 
