@@ -47,8 +47,8 @@ Added File / New Effect:
 1. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
 2. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 3. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-4. [The Takeover by Trevor Rabin](https://open.spotify.com/track/1gLyETILtkxStdJa2RbFdq)
-5. [KICK OUT by Travis Scott](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw)
+4. [KICK OUT by Travis Scott](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw)
+5. [The Takeover by Trevor Rabin](https://open.spotify.com/track/1gLyETILtkxStdJa2RbFdq)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
