@@ -44,8 +44,8 @@ Added File / New Effect:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-falvey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 
 ### 🎶Music i've been listening to recently on Spotify:
-1. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-2. [The Good, The Bad, The Ugly by The Game](https://open.spotify.com/track/05nTn7qBjn0RPKV9J6BSaK)
+1. [The Good, The Bad, The Ugly by The Game](https://open.spotify.com/track/05nTn7qBjn0RPKV9J6BSaK)
+2. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
 3. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
 4. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
 5. [The Takeover by Trevor Rabin](https://open.spotify.com/track/1gLyETILtkxStdJa2RbFdq)
