@@ -46,8 +46,8 @@ Added File / New Effect:
 ### 🎶Music i've been listening to recently on Spotify:
 1. [The Good, The Bad, The Ugly by The Game](https://open.spotify.com/track/05nTn7qBjn0RPKV9J6BSaK)
 2. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-3. [Las Vegas by W.G. Snuffy Walden](https://open.spotify.com/track/58a5aBZ4Ivgp8eQZgr5c2J)
-4. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
+3. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
+4. [Bounce by Drive Beyond Horizons](https://open.spotify.com/track/3eVqc0eN89C9NKquDQ8AGN)
 5. [The Takeover by Trevor Rabin](https://open.spotify.com/track/1gLyETILtkxStdJa2RbFdq)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
