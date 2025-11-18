@@ -46,9 +46,9 @@ Added File / New Effect:
 ### 🎶Music i've been listening to recently on Spotify:
 1. [The Good, The Bad, The Ugly by The Game](https://open.spotify.com/track/05nTn7qBjn0RPKV9J6BSaK)
 2. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-3. [War Preparations by W.G. Snuffy Walden](https://open.spotify.com/track/6Ln8Nz4Rjcm0c3KAdLYBcO)
+3. [Bounce by Drive Beyond Horizons](https://open.spotify.com/track/3eVqc0eN89C9NKquDQ8AGN)
 4. [Walk of Shame - Night City After Hours Mix by Idris Elba](https://open.spotify.com/track/7qAmvvnteSKqbhHwzJlbTu)
-5. [Bounce by Drive Beyond Horizons](https://open.spotify.com/track/3eVqc0eN89C9NKquDQ8AGN)
+5. [House Of Balloons / Glass Table Girls by The Weeknd](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV)
 
 ![](https://komarev.com/ghpvc/?username=nathan-falvey&color=green&style=for-the-badge)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-falvey/)
