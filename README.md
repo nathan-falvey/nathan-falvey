@@ -45,8 +45,8 @@ Added File / New Effect:
 
 ### 🎶Music i've been listening to recently on Spotify:
 1. [The Good, The Bad, The Ugly by The Game](https://open.spotify.com/track/05nTn7qBjn0RPKV9J6BSaK)
-2. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
-3. [Bounce by Drive Beyond Horizons](https://open.spotify.com/track/3eVqc0eN89C9NKquDQ8AGN)
+2. [Bounce by Drive Beyond Horizons](https://open.spotify.com/track/3eVqc0eN89C9NKquDQ8AGN)
+3. [Martians Vs Goblins by The Game](https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5)
 4. [Walk of Shame - Night City After Hours Mix by Idris Elba](https://open.spotify.com/track/7qAmvvnteSKqbhHwzJlbTu)
 5. [House Of Balloons / Glass Table Girls by The Weeknd](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV)
 
