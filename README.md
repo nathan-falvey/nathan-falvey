@@ -26,10 +26,9 @@ Updated ESP
 Added some scripts and perks
 0 Total Changes, 0 repository additions, 0 repository deletions.
 
-2025-10-01 19:13:19+01:00 - nathan-falvey/gta5-chaos-luascripts [f0508a9]: 
-Added File / New Effect:
-- Vehs/VehicleDerailTrains
-31 Total Changes, 31 repository additions, 0 repository deletions.
+2025-09-30 23:12:19+01:00 - nathan-falvey/gta5-chaos-luascripts [b92c9dc]: 
+Added Effect: Express Trains
+23 Total Changes, 23 repository additions, 0 repository deletions.
 
 ```
 ### Total Size Of Code Written:
